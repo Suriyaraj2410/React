@@ -1,0 +1,9 @@
+
+.header{
+    height: 10%;
+    padding: 10px;
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+     color: rgba(73, 56, 56, 0.9);
+    background-color:rgba(21,33,44,0.5);
+}
