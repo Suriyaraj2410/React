@@ -129,11 +129,11 @@ export function From(props) {
     }
   };
  
-  function check() {
-   if(cities.includes(document.getElementById("from").value) || document.getElementById("to").value){
-    document.getElementById("distance").value=Math.floor(Math.random()*10+1)
-   }
-  }
+  // function check() {
+  //  if(cities.includes(document.getElementById("from").value) || document.getElementById("to").value){
+  //   document.getElementById("distance").value=Math.floor(Math.random()*10+1)
+  //  }
+  // }
   
 
   return (
